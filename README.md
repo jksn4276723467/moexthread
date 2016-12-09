@@ -180,14 +180,20 @@ gfgg g dkf gndkf gdkg dfk gdkf gfdkjgn foifjejfknfkn  eir fiuewur983jnkjdn9fe f 
 ## Интернет ресурсы
 
  - http://moex.com/ - официальный сайт московской биржи
- - http://mfd.ru - котировки, АНАЛитика
- - http://smart-lab.ru - шквар-лаб
  - http://investing.com/ - инвестинг
  - http://www.rusbonds.ru/ - облигации с отбором по параметрам
  - http://ru.cbonds.info/ - облигации с отбором по параметрам
  - http://www.dohod.ru/ik/analytics/dividend/ - информация по дивидендам
  - http://quote.rbc.ru/exchanges/demo/micex.0/intraday - список акций ммвб с удобной сортировкой по параметрам
  - http://www.option.ru/analysis/option - анализ опционов
+ 
+ - http://mfd.ru - котировки, АНАЛитика, форум
+ - http://smart-lab.ru - шквар-лаб
+ - http://www.finanz.ru/ - новости, статьи
+ - http://investcafe.ru/ - новости, статьи
+ - https://ru.insider.pro - новости, статьи
+ - http://expert.ru/ - новости, статьи
+ - https://vk.com/alenkacapital , http://alenkacapital.com/ - инвест-идеи
 
 ## Литература и темы которые полезно знать
 
