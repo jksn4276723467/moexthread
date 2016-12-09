@@ -184,7 +184,7 @@ gfgg g dkf gndkf gdkg dfk gdkf gfdkjgn foifjejfknfkn  eir fiuewur983jnkjdn9fe f 
  - http://www.rusbonds.ru/ - облигации с отбором по параметрам
  - http://ru.cbonds.info/ - облигации с отбором по параметрам
  - http://www.dohod.ru/ik/analytics/dividend/ - информация по дивидендам
- - http://quote.rbc.ru/exchanges/demo/micex.0/intraday - список акций ммвб с удобной сортировкой по параметрам
+ - http://quote.rbc.ru/exchanges/demo/micex.0/intraday - список акций ммвб с удобной сортировкой по параметра
  - http://www.option.ru/analysis/option - анализ опционов
  
  - http://mfd.ru - котировки, АНАЛитика, форум
