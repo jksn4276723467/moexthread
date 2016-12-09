@@ -184,7 +184,7 @@
  - http://mfd.ru - котировки, АНАЛитика, форум
  - http://smart-lab.ru - шквар-лаб
  - http://www.finanz.ru/ - новости, статьи
- - http://investcafe.ru/ - новости, статьи
+ - http://investcafe.ru/ - идеи, статьи
  - https://ru.insider.pro - новости, статьи
  - http://expert.ru/ - новости, статьи
  - https://vk.com/alenkacapital , http://alenkacapital.com/ - инвест-идеи
