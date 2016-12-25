@@ -199,6 +199,7 @@
  - https://ru.insider.pro - новости, статьи
  - http://expert.ru/ - новости, статьи
  - https://vk.com/alenkacapital , http://alenkacapital.com/ - инвест-идеи
+ - http://www.chitchats.co/site/contents/content/289549/943 - конфа инвесторов и трейдеров в slack
 
 ## Литература и темы которые полезно знать
 
